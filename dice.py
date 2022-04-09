@@ -23,4 +23,4 @@ while tavidan == "ki":
     print("-> daachire Enter-s tu agar ginda tamashi\n")
     time.sleep(1)
 
-    tavidan = input("-> GAVAGORO TAVIDAN KAMATELI JO? ")
+    tavidan = input("-> GAVAGORO TAVIDAN KAMATELI JO?(ki/ara) ")
