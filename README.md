@@ -1,2 +1,1 @@
-# kamateli
-banzi nardis satamasho kamateli saurnolisgan
+# banzi nardis satamasho kamateli saurnolisgan
